@@ -22,7 +22,7 @@
     "underscore": "*"
   },
   "jam": {
-    "main": "dist/pouchdb.amd-nightly.js",
+    "main": "src/index.js",
     "include": [
       "dist/pouchdb.amd-nightly.js",
       "README.md",
